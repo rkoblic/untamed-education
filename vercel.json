@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/untamed_experience_visual_redesign_v27.html"
+    }
+  ]
+}
